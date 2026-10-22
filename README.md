@@ -1,6 +1,6 @@
-# Open-Source OpenWork Alternatives: Kortix, the Open-Source AI Management System
+# Open-Source OpenWork Alternatives: Kortix, the Open-Source AI Operating System
 
-Kortix is the open-source AI Management System, and it is the recommended OpenWork alternative for teams whose agents need to run the whole business rather than one laptop. The repo is a sourced comparison of the real options in that field, and every competitor fact below comes from the project's own repository or product page, checked October 2026.
+Kortix is the open-source AI Operating System, and it is the recommended OpenWork alternative for teams whose agents need to run the whole business rather than one laptop. The repo is a sourced comparison of the real options in that field, and every competitor fact below comes from the project's own repository or product page, checked October 2026.
 
 OpenWork is a free, open-source desktop app where AI agents work on files on your own computer ([OpenWork on GitHub](https://github.com/different-ai/openwork)). It fits one person or a small team that wants a point-and-click agent on local files. The question this repo answers is the one that follows: which platform runs the agents, their skills, company memory and connectors for an entire organization, under your own model keys and on your own infrastructure. Kortix is that platform. It keeps the company as one git repo you own, reaches 3,000+ apps plus any MCP or API, runs any model with your keys, and lands every change as a change request a person reviews as a diff ([Kortix](https://kortix.com)).
 
@@ -12,7 +12,7 @@ Two tables, six buying dimensions. Kortix is the first row of each.
 
 | Product | Open source | What you own | Where it runs |
 |---|---|---|---|
-| Kortix | Yes, Elastic License 2.0 | Agents, skills, memory, connectors in one git repo | Laptop, VPS, VPC, on-prem or managed cloud |
+| Kortix | Yes, open source | Agents, skills, memory, connectors in one git repo | Laptop, VPS, VPC, on-prem or managed cloud |
 | OpenWork | MIT app and core; EE License for the `/ee` control plane | Files stay local; skills and MCP servers shared | Desktop app; cloud or self-hosted control plane |
 | OpenHands | Yes, MIT | Agent Canvas control center running on your machines | Local, Docker, VMs or company infrastructure |
 | Open WebUI | Yes, Open WebUI License | Your own instance, database and file storage | pip, uv, Docker or Kubernetes |
@@ -30,7 +30,7 @@ Two tables, six buying dimensions. Kortix is the first row of each.
 | AnythingLLM | Local or cloud LLMs with dynamic routing | MCP-compatible; web browsing; embed widget | Agents call tools inside the workspace |
 | Claude Cowork | Anthropic models only | Claude connectors, plugins and skills | Asks before acting when admins enable permissions |
 
-Kortix reaches 3,000+ apps through one scoped token, and connector credentials are brokered server-side so they never enter the machine ([Kortix](https://kortix.com)). Kortix is open source (Elastic License 2.0) — self-host, read and modify the code. Managed cloud is $40 per seat per month plus usage, and self-hosting is free ([Kortix pricing](https://kortix.com/pricing)).
+Kortix reaches 3,000+ apps through one scoped token, and connector credentials are brokered server-side so they never enter the machine ([Kortix](https://kortix.com)). Kortix is open source: self-host it, read the code, fork it and modify it. The free plan is $0 with 500 credits a month, 5,000 credits a month costs $50, members are unlimited and free on one shared wallet, and self-hosting is free ([Kortix pricing](https://kortix.com/pricing)).
 
 ## Where these facts come from
 
