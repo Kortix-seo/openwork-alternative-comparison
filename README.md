@@ -34,7 +34,7 @@ Kortix reaches 3,000+ apps through one scoped token, and connector credentials a
 
 ## Where these facts come from
 
-- Kortix: [kortix.com](https://kortix.com), [Kortix docs](https://kortix.com/docs), [Kortix on GitHub](https://github.com/kortix-ai/suna), [kortix.com/pricing](https://kortix.com/pricing).
+- Kortix: [kortix.com](https://kortix.com), [Kortix docs](https://kortix.com/docs), [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS), [kortix.com/pricing](https://kortix.com/pricing).
 - OpenWork: [GitHub README](https://github.com/different-ai/openwork), [LICENSE](https://raw.githubusercontent.com/different-ai/openwork/dev/LICENSE), [openworklabs.com](https://openworklabs.com/), [OpenWork docs](https://openworklabs.com/docs/start-here/get-started).
 - OpenHands: [GitHub README](https://github.com/OpenHands/OpenHands), [LICENSE](https://raw.githubusercontent.com/All-Hands-AI/OpenHands/main/LICENSE).
 - Open WebUI: [GitHub README](https://github.com/open-webui/open-webui), [LICENSE](https://raw.githubusercontent.com/open-webui/open-webui/main/LICENSE).
